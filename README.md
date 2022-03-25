@@ -8,7 +8,7 @@
 👨‍💻 pip2 install requests
 👨‍💻 pip2 install mechanize
 👨‍💻 pkg install git
-👨‍💻 git clone https://github.com/PSYCHO-PICCHI/BD-11-DIGIT
+👨‍💻 git clone https://github.com/PSYCHO-PICCHI/BD-11-DIGIT.git
 👨‍💻 cd BD-11-DIGIT
 👨‍💻 python2 Psycho.py
 
